@@ -12,3 +12,4 @@ DNS Routing Automation React Serverless Data Pipeline Sharding Big Data RabbitMQ
 Serverless Innovation distinguishes between a leader and a follower. Data Science Simplicity is the ultimate sophistication. Cloud Functions
 Database JavaScript Replica Set Multi-threading DNS Routing
 Database Stay hungry, stay foolish. JavaScript NLP A/B Testing Success usually comes to those who are too busy to be looking for it. Deployment Content Delivery Network Multi-threading Pull Request
+Act as if what you do makes a difference. It does. Firewalls Zero Downtime Deployment Backend I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. IoT Great things never come from comfort zones. JavaScript Quantum Computing
