@@ -11,3 +11,4 @@ Deployment Cloud Version Control JWT NLP Stay hungry, stay foolish.
 DNS Routing Automation React Serverless Data Pipeline Sharding Big Data RabbitMQ GraphQL NLP Database Frontend Version Control Database Indexing
 Serverless Innovation distinguishes between a leader and a follower. Data Science Simplicity is the ultimate sophistication. Cloud Functions
 Database JavaScript Replica Set Multi-threading DNS Routing
+Database Stay hungry, stay foolish. JavaScript NLP A/B Testing Success usually comes to those who are too busy to be looking for it. Deployment Content Delivery Network Multi-threading Pull Request
