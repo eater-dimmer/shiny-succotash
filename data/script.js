@@ -10,3 +10,4 @@ NLP Containerization Great things never come from comfort zones. Kafka Blockchai
 Deployment Cloud Version Control JWT NLP Stay hungry, stay foolish.
 DNS Routing Automation React Serverless Data Pipeline Sharding Big Data RabbitMQ GraphQL NLP Database Frontend Version Control Database Indexing
 Serverless Innovation distinguishes between a leader and a follower. Data Science Simplicity is the ultimate sophistication. Cloud Functions
+Database JavaScript Replica Set Multi-threading DNS Routing
