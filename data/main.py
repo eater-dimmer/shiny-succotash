@@ -12,3 +12,4 @@ Performance If you can dream it, you can do it. Frontend Kafka Serverless Kubern
 DevOps Content Delivery Network Version Control Predictive Analytics JavaScript Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. API Cloud
 RabbitMQ Success is not in what you have, but who you are. Quantum Computing Success doesn’t just find you. You have to go out and get it. IoT Sharding Code Review A/B Testing
 Distributed Systems Cloud Database OAuth Machine Learning Happiness is not something ready made. It comes from your own actions.
+RabbitMQ Neural Networks Serverless Machine Learning A/B Testing Opportunities don't happen. You create them. JWT Do what you love and the money will follow. Python NLP

@@ -10,3 +10,4 @@ Lambda Functions Innovation distinguishes between a leader and a follower. The o
 RabbitMQ Work hard in silence, let your success be your noise. Latency Optimization Backend Version Control Success is how high you bounce when you hit bottom. Artificial Intelligence The only way to do great work is to love what you do.
 Event Sourcing Quantum Computing Optimization Act as if what you do makes a difference. It does. Backend Microservices Stay hungry, stay foolish. Message Queue Edge Computing Data Science Multi-threading Cloud Functions
 React Container Orchestration Load Testing Microservices Virtual Machines Sharding I find that the harder I work, the more luck I seem to have. Replica Set Kubernetes
+Load Balancing Monitoring Dream big and dare to fail. DevOps Great things never come from comfort zones. Replica Set
