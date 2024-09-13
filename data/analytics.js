@@ -5,3 +5,4 @@ Algorithm Success usually comes to those who are too busy to be looking for it. 
 Success is how high you bounce when you hit bottom. UX Optimization A/B Testing Great things never come from comfort zones. Docker NLP
 Don't be afraid to give up the good to go for the great. Predictive Analytics Content Delivery Network Data Science Cache Invalidation OAuth Neural Networks Backend Agile Latency Optimization Event Sourcing Logging
 Data Science Event Sourcing WebSockets Frontend I find that the harder I work, the more luck I seem to have. Parallel Processing Logging Serverless Firewalls Machine Learning UX Optimization To be the best, you must be able to handle the worst. Code Review Don't be afraid to give up the good to go for the great.
+Frontend Backend Artificial Intelligence Multi-threading Message Queue Deployment Parallel Processing Agile
