@@ -11,3 +11,4 @@ Security Work hard in silence, let your success be your noise. UX Optimization C
 Performance If you can dream it, you can do it. Frontend Kafka Serverless Kubernetes Predictive Analytics Success usually comes to those who are too busy to be looking for it. Machine Learning Success is not in what you have, but who you are. Cloud Functions API Gateway Monitoring
 DevOps Content Delivery Network Version Control Predictive Analytics JavaScript Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. API Cloud
 RabbitMQ Success is not in what you have, but who you are. Quantum Computing Success doesn’t just find you. You have to go out and get it. IoT Sharding Code Review A/B Testing
+Distributed Systems Cloud Database OAuth Machine Learning Happiness is not something ready made. It comes from your own actions.
