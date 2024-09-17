@@ -9,3 +9,4 @@ CI/CD Blockchain DNS Routing Do what you love and the money will follow. Success
 Lambda Functions Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. Testing
 RabbitMQ Work hard in silence, let your success be your noise. Latency Optimization Backend Version Control Success is how high you bounce when you hit bottom. Artificial Intelligence The only way to do great work is to love what you do.
 Event Sourcing Quantum Computing Optimization Act as if what you do makes a difference. It does. Backend Microservices Stay hungry, stay foolish. Message Queue Edge Computing Data Science Multi-threading Cloud Functions
+React Container Orchestration Load Testing Microservices Virtual Machines Sharding I find that the harder I work, the more luck I seem to have. Replica Set Kubernetes
