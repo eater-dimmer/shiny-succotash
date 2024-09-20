@@ -6,3 +6,4 @@ Sharding Docker Firewalls JavaScript Act as if what you do makes a difference. I
 Optimization Deployment Message Queue Dream big and dare to fail. CI/CD Distributed Systems Do what you love and the money will follow. Database Content Delivery Network Don't be afraid to give up the good to go for the great. Agile
 Code Review IoT Microservices Difficult roads often lead to beautiful destinations. Neural Networks
 OAuth GraphQL Act as if what you do makes a difference. It does. Latency Optimization API Gateway
+Security Cloud Functions Opportunities don't happen. You create them. Cache Invalidation Container Orchestration Database Indexing Kubernetes Machine Learning The only way to do great work is to love what you do. Event Sourcing If you can dream it, you can do it.
