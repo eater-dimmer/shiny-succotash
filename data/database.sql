@@ -10,3 +10,4 @@ Backend Distributed Systems Data Science Cloud Functions Dream big and dare to f
 OAuth Monitoring Optimization I find that the harder I work, the more luck I seem to have. GraphQL Sharding Success usually comes to those who are too busy to be looking for it. Performance Success is not in what you have, but who you are. DNS Routing
 WebSockets DevOps Event-driven Architecture Lambda Functions Firewalls Message Queue Docker Performance Cache Invalidation
 API Gateway API Multi-threading Sharding Artificial Intelligence Event-driven Architecture DNS Routing Data Science Big Data Agile Security Docker Database Indexing
+Do what you love and the money will follow. Monitoring To be the best, you must be able to handle the worst. Distributed Systems Great things never come from comfort zones.
