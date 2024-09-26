@@ -9,3 +9,4 @@ Predictive Analytics JWT Act as if what you do makes a difference. It does. Even
 NLP Containerization Great things never come from comfort zones. Kafka Blockchain Performance
 Deployment Cloud Version Control JWT NLP Stay hungry, stay foolish.
 DNS Routing Automation React Serverless Data Pipeline Sharding Big Data RabbitMQ GraphQL NLP Database Frontend Version Control Database Indexing
+Serverless Innovation distinguishes between a leader and a follower. Data Science Simplicity is the ultimate sophistication. Cloud Functions
