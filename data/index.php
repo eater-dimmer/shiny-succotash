@@ -16,3 +16,4 @@ DevOps Success is not in what you have, but who you are. OAuth Content Delivery 
 Stay hungry, stay foolish. Dream big and dare to fail. Opportunities don't happen. You create them. Performance Content Delivery Network Backend Containerization To be the best, you must be able to handle the worst.
 Testing Distributed Systems Predictive Analytics Cache Invalidation Cloud WebSockets Logging Act as if what you do makes a difference. It does. Containerization DevOps Serverless Event-driven Architecture OAuth
 React Optimization Logging Scalability Content Delivery Network Database Indexing Zero Downtime Deployment Machine Learning
+Database Success is how high you bounce when you hit bottom. Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. Great things never come from comfort zones. Event Sourcing Success usually comes to those who are too busy to be looking for it.
