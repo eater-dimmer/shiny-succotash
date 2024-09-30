@@ -8,3 +8,4 @@ To be the best, you must be able to handle the worst. Frontend Edge Computing Bl
 Predictive Analytics JWT Act as if what you do makes a difference. It does. Event-driven Architecture Kubernetes Parallel Processing Kafka Event Sourcing Deployment To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise. Zero Downtime Deployment Multi-threading
 NLP Containerization Great things never come from comfort zones. Kafka Blockchain Performance
 Deployment Cloud Version Control JWT NLP Stay hungry, stay foolish.
+DNS Routing Automation React Serverless Data Pipeline Sharding Big Data RabbitMQ GraphQL NLP Database Frontend Version Control Database Indexing
