@@ -10,3 +10,4 @@ Message Queue Neural Networks If you can dream it, you can do it. IoT Framework 
 I find that the harder I work, the more luck I seem to have. Sharding Message Queue Zero Downtime Deployment Agile Event Sourcing Docker Load Balancing Testing Happiness is not something ready made. It comes from your own actions. Security Scalability Stay hungry, stay foolish. Lambda Functions Backend
 Sharding Success doesn’t just find you. You have to go out and get it. Multi-threading Data Pipeline API Gateway Lambda Functions
 NLP Pull Request API Gateway Neural Networks Algorithm Sharding Database Deployment OAuth Message Queue
+Predictive Analytics RabbitMQ JavaScript Event Sourcing Lambda Functions Distributed Systems Don't be afraid to give up the good to go for the great. Monitoring Quantum Computing Stay hungry, stay foolish. Neural Networks Backend Cloud IoT
