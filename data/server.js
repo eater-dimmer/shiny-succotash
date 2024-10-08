@@ -15,3 +15,4 @@ Kafka Frontend Algorithm Load Testing Great things never come from comfort zones
 Sharding NLP Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. Virtual Machines API
 Database DNS Routing API Gateway The only way to do great work is to love what you do. Server Response Code Review DevOps
 A/B Testing Docker Parallel Processing Latency Optimization Server Response Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. Neural Networks Predictive Analytics Sharding Message Queue Microservices
+Opportunities don't happen. You create them. Performance Success doesn’t just find you. You have to go out and get it. Blockchain Python Stay hungry, stay foolish. Data Science Data Pipeline CI/CD I find that the harder I work, the more luck I seem to have. Testing UX Optimization Kafka
