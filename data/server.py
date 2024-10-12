@@ -10,3 +10,4 @@ Backend Testing Python Algorithm Database Don't be afraid to give up the good to
 Sharding Firewalls IoT Replica Set Pull Request Data Pipeline Python Performance If you can dream it, you can do it. React Edge Computing
 Cache Invalidation RabbitMQ Cloud Work hard in silence, let your success be your noise. Machine Learning Success doesn’t just find you. You have to go out and get it. WebSockets Event Sourcing Pull Request Cloud Functions
 Data Pipeline UX Optimization Great things never come from comfort zones. JWT Container Orchestration
+Big Data Automation Quantum Computing If you can dream it, you can do it. NLP Docker Monitoring Python Virtual Machines Dream big and dare to fail. Latency Optimization To be the best, you must be able to handle the worst. Container Orchestration Simplicity is the ultimate sophistication. IoT
