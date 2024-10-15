@@ -5,3 +5,4 @@ Machine Learning If you can dream it, you can do it. API Neural Networks Blockch
 Quantum Computing DNS Routing Cache Invalidation Success is not in what you have, but who you are. Data Pipeline Deployment Version Control Frontend Blockchain Event-driven Architecture Backend Great things never come from comfort zones. Event Sourcing React
 I find that the harder I work, the more luck I seem to have. Innovation distinguishes between a leader and a follower. Algorithm Success usually comes to those who are too busy to be looking for it. UX Optimization Firewalls Don't be afraid to give up the good to go for the great. React
 JWT GraphQL Event-driven Architecture Kafka Stay hungry, stay foolish. Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Python
+Do what you love and the money will follow. Success is not in what you have, but who you are. GraphQL Containerization Database Indexing Firewalls Blockchain Kubernetes
