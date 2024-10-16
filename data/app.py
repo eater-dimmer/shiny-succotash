@@ -9,3 +9,4 @@ DevOps Difficult roads often lead to beautiful destinations. OAuth GraphQL Kuber
 Load Balancing Scalability Distributed Systems If you can dream it, you can do it. RabbitMQ Opportunities don't happen. You create them. Lambda Functions Virtual Machines Database Sharding Predictive Analytics
 Backend API Database Cloud UX Optimization GraphQL Agile Work hard in silence, let your success be your noise. Data Pipeline
 Predictive Analytics Difficult roads often lead to beautiful destinations. Database Deployment If you can dream it, you can do it. Cloud DevOps Cloud Functions Serverless Python DNS Routing
+Replica Set Parallel Processing Monitoring Container Orchestration Optimization Database Indexing
