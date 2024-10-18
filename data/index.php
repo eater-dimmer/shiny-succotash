@@ -14,3 +14,4 @@ Container Orchestration Docker Event Sourcing Happiness is not something ready m
 JavaScript IoT Virtual Machines GraphQL Parallel Processing Opportunities don't happen. You create them.
 DevOps Success is not in what you have, but who you are. OAuth Content Delivery Network Docker Multi-threading Opportunities don't happen. You create them. Logging IoT Virtual Machines Sharding
 Stay hungry, stay foolish. Dream big and dare to fail. Opportunities don't happen. You create them. Performance Content Delivery Network Backend Containerization To be the best, you must be able to handle the worst.
+Testing Distributed Systems Predictive Analytics Cache Invalidation Cloud WebSockets Logging Act as if what you do makes a difference. It does. Containerization DevOps Serverless Event-driven Architecture OAuth

@@ -14,3 +14,4 @@ Great things never come from comfort zones. Security Backend Agile Blockchain In
 Kafka Frontend Algorithm Load Testing Great things never come from comfort zones. Version Control
 Sharding NLP Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. Virtual Machines API
 Database DNS Routing API Gateway The only way to do great work is to love what you do. Server Response Code Review DevOps
+A/B Testing Docker Parallel Processing Latency Optimization Server Response Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. Neural Networks Predictive Analytics Sharding Message Queue Microservices
