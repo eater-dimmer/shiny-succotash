@@ -13,3 +13,4 @@ Parallel Processing Edge Computing UX Optimization Algorithm API Monitoring Succ
 Container Orchestration Docker Event Sourcing Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it. Data Science Pull Request Backend Automation Testing DNS Routing
 JavaScript IoT Virtual Machines GraphQL Parallel Processing Opportunities don't happen. You create them.
 DevOps Success is not in what you have, but who you are. OAuth Content Delivery Network Docker Multi-threading Opportunities don't happen. You create them. Logging IoT Virtual Machines Sharding
+Stay hungry, stay foolish. Dream big and dare to fail. Opportunities don't happen. You create them. Performance Content Delivery Network Backend Containerization To be the best, you must be able to handle the worst.
