@@ -6,3 +6,4 @@ Load Balancing Cache Invalidation Latency Optimization Pull Request To be the be
 Algorithm Machine Learning Serverless Kafka JavaScript Python DevOps Virtual Machines React IoT Difficult roads often lead to beautiful destinations.
 To be the best, you must be able to handle the worst. Frontend Edge Computing Blockchain Content Delivery Network
 Predictive Analytics JWT Act as if what you do makes a difference. It does. Event-driven Architecture Kubernetes Parallel Processing Kafka Event Sourcing Deployment To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise. Zero Downtime Deployment Multi-threading
+NLP Containerization Great things never come from comfort zones. Kafka Blockchain Performance
