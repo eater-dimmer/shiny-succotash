@@ -7,3 +7,4 @@ Agile Automation Python Simplicity is the ultimate sophistication. Edge Computin
 Docker Innovation distinguishes between a leader and a follower. Message Queue Don't be afraid to give up the good to go for the great. React Sharding Stay hungry, stay foolish. Content Delivery Network Neural Networks Cache Invalidation Performance Security Frontend UX Optimization Kubernetes
 DevOps Difficult roads often lead to beautiful destinations. OAuth GraphQL Kubernetes Python Success doesn’t just find you. You have to go out and get it. Quantum Computing Parallel Processing Success is not in what you have, but who you are. Logging
 Load Balancing Scalability Distributed Systems If you can dream it, you can do it. RabbitMQ Opportunities don't happen. You create them. Lambda Functions Virtual Machines Database Sharding Predictive Analytics
+Backend API Database Cloud UX Optimization GraphQL Agile Work hard in silence, let your success be your noise. Data Pipeline
