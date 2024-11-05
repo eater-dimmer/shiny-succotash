@@ -6,3 +6,4 @@ Cloud Firewalls Opportunities don't happen. You create them. API Gateway Zero Do
 Agile Stay hungry, stay foolish. Database Great things never come from comfort zones. Success is not in what you have, but who you are. JWT Sharding
 RabbitMQ NLP Simplicity is the ultimate sophistication. Performance Edge Computing Zero Downtime Deployment IoT Testing Do what you love and the money will follow. CI/CD
 Monitoring Version Control Work hard in silence, let your success be your noise. Quantum Computing Sharding
+Cache Invalidation DevOps Containerization If you can dream it, you can do it. Load Balancing Agile Innovation distinguishes between a leader and a follower. Data Pipeline Logging Edge Computing Cloud Functions Difficult roads often lead to beautiful destinations. Opportunities don't happen. You create them.
