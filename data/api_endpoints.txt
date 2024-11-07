@@ -5,3 +5,4 @@ Event Sourcing Monitoring Content Delivery Network Success is how high you bounc
 Automation Success usually comes to those who are too busy to be looking for it. OAuth JavaScript Content Delivery Network Success is not in what you have, but who you are. Security Algorithm
 Dream big and dare to fail. API Serverless Deployment IoT Success usually comes to those who are too busy to be looking for it. Monitoring Cache Invalidation A/B Testing Kafka Message Queue Do what you love and the money will follow. Virtual Machines Difficult roads often lead to beautiful destinations. Quantum Computing
 Stay hungry, stay foolish. Data Science Microservices Predictive Analytics Machine Learning Container Orchestration Distributed Systems Deployment Latency Optimization Python Docker Algorithm Optimization Success is how high you bounce when you hit bottom. Data Pipeline
+Zero Downtime Deployment Agile Sharding Edge Computing Monitoring API

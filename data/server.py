@@ -8,3 +8,4 @@ Multi-threading A/B Testing Data Science If you can dream it, you can do it. Blo
 The only way to do great work is to love what you do. NLP JWT Serverless GraphQL Predictive Analytics Algorithm
 Backend Testing Python Algorithm Database Don't be afraid to give up the good to go for the great. Agile Latency Optimization Performance Edge Computing Zero Downtime Deployment Load Balancing Monitoring
 Sharding Firewalls IoT Replica Set Pull Request Data Pipeline Python Performance If you can dream it, you can do it. React Edge Computing
+Cache Invalidation RabbitMQ Cloud Work hard in silence, let your success be your noise. Machine Learning Success doesn’t just find you. You have to go out and get it. WebSockets Event Sourcing Pull Request Cloud Functions
