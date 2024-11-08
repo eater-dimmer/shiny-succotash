@@ -12,3 +12,4 @@ Frontend Opportunities don't happen. You create them. Backend Predictive Analyti
 Parallel Processing Edge Computing UX Optimization Algorithm API Monitoring Success is not in what you have, but who you are. Kubernetes Cloud The only way to do great work is to love what you do. Deployment Blockchain
 Container Orchestration Docker Event Sourcing Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it. Data Science Pull Request Backend Automation Testing DNS Routing
 JavaScript IoT Virtual Machines GraphQL Parallel Processing Opportunities don't happen. You create them.
+DevOps Success is not in what you have, but who you are. OAuth Content Delivery Network Docker Multi-threading Opportunities don't happen. You create them. Logging IoT Virtual Machines Sharding
