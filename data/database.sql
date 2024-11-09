@@ -6,3 +6,4 @@ Big Data Act as if what you do makes a difference. It does. Machine Learning Rep
 JavaScript CI/CD Data Science Load Testing Message Queue Success is not in what you have, but who you are. UX Optimization Do what you love and the money will follow. Predictive Analytics Innovation distinguishes between a leader and a follower. Automation The only way to do great work is to love what you do. Performance JWT
 Containerization Event Sourcing DevOps Server Response Testing Great things never come from comfort zones. Python Predictive Analytics Success doesn’t just find you. You have to go out and get it. Machine Learning Docker Framework Data Science
 The only way to do great work is to love what you do. Python UX Optimization Container Orchestration Monitoring
+Backend Distributed Systems Data Science Cloud Functions Dream big and dare to fail.
