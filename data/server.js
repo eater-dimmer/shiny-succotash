@@ -12,3 +12,4 @@ Database Indexing WebSockets Scalability Blockchain Data Pipeline
 Data Science Frontend Microservices DevOps The only way to do great work is to love what you do. Simplicity is the ultimate sophistication. Serverless Logging Kubernetes
 Great things never come from comfort zones. Security Backend Agile Blockchain Innovation distinguishes between a leader and a follower. Data Science Frontend Stay hungry, stay foolish. Database Indexing
 Kafka Frontend Algorithm Load Testing Great things never come from comfort zones. Version Control
+Sharding NLP Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. Virtual Machines API
