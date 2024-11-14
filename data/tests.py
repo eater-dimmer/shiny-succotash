@@ -4,3 +4,4 @@ Edge Computing Message Queue Latency Optimization IoT DevOps Big Data DNS Routin
 DNS Routing Database Indexing Security Cloud Quantum Computing RabbitMQ Backend Kubernetes GraphQL Predictive Analytics Kafka Replica Set Performance Success doesn’t just find you. You have to go out and get it. Container Orchestration
 Cache Invalidation Testing If you can dream it, you can do it. Kubernetes Big Data Lambda Functions Distributed Systems Firewalls Happiness is not something ready made. It comes from your own actions. DevOps Don't be afraid to give up the good to go for the great. Content Delivery Network RabbitMQ GraphQL
 Dream big and dare to fail. Success is not in what you have, but who you are. Pull Request JavaScript Security
+Opportunities don't happen. You create them. Kafka Algorithm WebSockets Kubernetes Do what you love and the money will follow.
