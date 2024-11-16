@@ -8,3 +8,4 @@ Quantum Computing CI/CD The only way to do great work is to love what you do. Mu
 API Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have. OAuth Distributed Systems Optimization Zero Downtime Deployment Automation
 Deployment Server Response Difficult roads often lead to beautiful destinations. DevOps Multi-threading Database Indexing Kubernetes API Replica Set Parallel Processing Code Review
 Stay hungry, stay foolish. Success is not in what you have, but who you are. DNS Routing A/B Testing Testing Monitoring Containerization GraphQL Distributed Systems RabbitMQ
+Frontend Opportunities don't happen. You create them. Backend Predictive Analytics Database Indexing Cache Invalidation NLP API Gateway Message Queue I find that the harder I work, the more luck I seem to have. Deployment Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. IoT
