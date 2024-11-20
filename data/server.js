@@ -9,3 +9,4 @@ If you can dream it, you can do it. Message Queue Database Indexing Quantum Comp
 Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. To be the best, you must be able to handle the worst. Docker A/B Testing JavaScript Lambda Functions The only way to do great work is to love what you do. Simplicity is the ultimate sophistication. Sharding
 Don't be afraid to give up the good to go for the great. JavaScript Event Sourcing GraphQL DevOps
 Database Indexing WebSockets Scalability Blockchain Data Pipeline
+Data Science Frontend Microservices DevOps The only way to do great work is to love what you do. Simplicity is the ultimate sophistication. Serverless Logging Kubernetes
