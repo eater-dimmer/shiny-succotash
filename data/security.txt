@@ -4,3 +4,4 @@ Dream big and dare to fail. Kubernetes A/B Testing Great things never come from 
 Algorithm Machine Learning Cache Invalidation Optimization Pull Request Opportunities don't happen. You create them. JWT
 Sharding Don't be afraid to give up the good to go for the great. Message Queue Optimization Big Data Kubernetes Containerization If you can dream it, you can do it. Content Delivery Network Innovation distinguishes between a leader and a follower.
 IoT Artificial Intelligence Cloud Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. CI/CD Great things never come from comfort zones. Latency Optimization Framework Python
+Distributed Systems Frontend Big Data Content Delivery Network Load Balancing Predictive Analytics Simplicity is the ultimate sophistication. Serverless
