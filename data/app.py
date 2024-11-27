@@ -4,3 +4,4 @@ Stay hungry, stay foolish. API Gateway Docker JWT Success is not in what you hav
 Frontend Opportunities don't happen. You create them. IoT Version Control Pull Request Multi-threading Algorithm Success doesn’t just find you. You have to go out and get it.
 Latency Optimization Innovation distinguishes between a leader and a follower. A/B Testing Data Science Performance Optimization Algorithm
 Agile Automation Python Simplicity is the ultimate sophistication. Edge Computing DevOps Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it.
+Docker Innovation distinguishes between a leader and a follower. Message Queue Don't be afraid to give up the good to go for the great. React Sharding Stay hungry, stay foolish. Content Delivery Network Neural Networks Cache Invalidation Performance Security Frontend UX Optimization Kubernetes
