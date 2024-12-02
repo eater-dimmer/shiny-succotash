@@ -7,3 +7,4 @@ Simplicity is the ultimate sophistication. Data Science CI/CD Performance Contai
 Multi-threading A/B Testing Data Science If you can dream it, you can do it. Blockchain WebSockets Virtual Machines Difficult roads often lead to beautiful destinations. Load Balancing JavaScript Success is how high you bounce when you hit bottom. Quantum Computing API Kafka Database
 The only way to do great work is to love what you do. NLP JWT Serverless GraphQL Predictive Analytics Algorithm
 Backend Testing Python Algorithm Database Don't be afraid to give up the good to go for the great. Agile Latency Optimization Performance Edge Computing Zero Downtime Deployment Load Balancing Monitoring
+Sharding Firewalls IoT Replica Set Pull Request Data Pipeline Python Performance If you can dream it, you can do it. React Edge Computing

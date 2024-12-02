@@ -2,3 +2,4 @@ Stay hungry, stay foolish. Parallel Processing Artificial Intelligence Innovatio
 DNS Routing Server Response Work hard in silence, let your success be your noise. Edge Computing DevOps React Optimization Content Delivery Network JWT Data Science Kafka Cloud Functions Database Indexing
 Edge Computing Message Queue Latency Optimization IoT DevOps Big Data DNS Routing Multi-threading UX Optimization Performance OAuth
 DNS Routing Database Indexing Security Cloud Quantum Computing RabbitMQ Backend Kubernetes GraphQL Predictive Analytics Kafka Replica Set Performance Success doesn’t just find you. You have to go out and get it. Container Orchestration
+Cache Invalidation Testing If you can dream it, you can do it. Kubernetes Big Data Lambda Functions Distributed Systems Firewalls Happiness is not something ready made. It comes from your own actions. DevOps Don't be afraid to give up the good to go for the great. Content Delivery Network RabbitMQ GraphQL
