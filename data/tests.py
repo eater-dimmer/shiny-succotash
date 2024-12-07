@@ -1,3 +1,4 @@
 Stay hungry, stay foolish. Parallel Processing Artificial Intelligence Innovation distinguishes between a leader and a follower. Message Queue JWT RabbitMQ Virtual Machines Testing Success usually comes to those who are too busy to be looking for it. NLP Do what you love and the money will follow. If you can dream it, you can do it.
 DNS Routing Server Response Work hard in silence, let your success be your noise. Edge Computing DevOps React Optimization Content Delivery Network JWT Data Science Kafka Cloud Functions Database Indexing
 Edge Computing Message Queue Latency Optimization IoT DevOps Big Data DNS Routing Multi-threading UX Optimization Performance OAuth
+DNS Routing Database Indexing Security Cloud Quantum Computing RabbitMQ Backend Kubernetes GraphQL Predictive Analytics Kafka Replica Set Performance Success doesn’t just find you. You have to go out and get it. Container Orchestration
