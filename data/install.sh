@@ -5,3 +5,4 @@ Testing JavaScript Framework Firewalls Deployment Happiness is not something rea
 Stay hungry, stay foolish. Security Code Review Event-driven Architecture Great things never come from comfort zones. Agile If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Event Sourcing
 OAuth Data Pipeline Code Review Containerization Opportunities don't happen. You create them. Innovation distinguishes between a leader and a follower. IoT Big Data A/B Testing Replica Set
 Version Control UX Optimization Zero Downtime Deployment Innovation distinguishes between a leader and a follower. OAuth Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. Cache Invalidation Machine Learning
+Server Response Logging Security A/B Testing Success doesn’t just find you. You have to go out and get it.
