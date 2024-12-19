@@ -1,1 +1,2 @@
 Docker Blockchain Zero Downtime Deployment Parallel Processing Container Orchestration
+JavaScript Lambda Functions Don't be afraid to give up the good to go for the great. OAuth If you can dream it, you can do it. Kubernetes To be the best, you must be able to handle the worst. Success is not in what you have, but who you are. Containerization WebSockets DNS Routing Success doesn’t just find you. You have to go out and get it. Cloud Functions
