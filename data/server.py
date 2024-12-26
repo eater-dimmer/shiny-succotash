@@ -4,3 +4,4 @@ Happiness is not something ready made. It comes from your own actions. Act as if
 Testing Algorithm UX Optimization Backend Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great.
 Code Review Framework Kafka To be the best, you must be able to handle the worst. Database Indexing Agile Event Sourcing
 Simplicity is the ultimate sophistication. Data Science CI/CD Performance Containerization Monitoring Pull Request Data Pipeline Event Sourcing
+Multi-threading A/B Testing Data Science If you can dream it, you can do it. Blockchain WebSockets Virtual Machines Difficult roads often lead to beautiful destinations. Load Balancing JavaScript Success is how high you bounce when you hit bottom. Quantum Computing API Kafka Database
