@@ -1,1 +1,2 @@
 Cloud Functions Testing Data Pipeline Stay hungry, stay foolish. Kubernetes Edge Computing Blockchain Microservices Lambda Functions The only way to do great work is to love what you do. Latency Optimization WebSockets Event Sourcing Monitoring
+API Gateway Cloud Functions RabbitMQ Zero Downtime Deployment Monitoring Load Balancing Stay hungry, stay foolish. Content Delivery Network Code Review Machine Learning Success is how high you bounce when you hit bottom. Logging Frontend
