@@ -1,2 +1,3 @@
 Opportunities don't happen. You create them. Database Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. Database Indexing API Success is not in what you have, but who you are. Predictive Analytics Optimization Frontend Success usually comes to those who are too busy to be looking for it. Version Control
 RabbitMQ Event-driven Architecture To be the best, you must be able to handle the worst. Content Delivery Network Agile Zero Downtime Deployment If you can dream it, you can do it. Docker Pull Request
+Optimization Multi-threading Virtual Machines Load Balancing Difficult roads often lead to beautiful destinations. Framework API Gateway Containerization DevOps JavaScript Load Testing
