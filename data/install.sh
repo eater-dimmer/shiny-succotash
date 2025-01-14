@@ -3,3 +3,4 @@ IoT Deployment Agile Load Testing Algorithm Latency Optimization Security Innova
 Great things never come from comfort zones. Replica Set Do what you love and the money will follow. Virtual Machines GraphQL OAuth Docker Database Indexing Blockchain
 Testing JavaScript Framework Firewalls Deployment Happiness is not something ready made. It comes from your own actions. Neural Networks Load Balancing
 Stay hungry, stay foolish. Security Code Review Event-driven Architecture Great things never come from comfort zones. Agile If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Event Sourcing
+OAuth Data Pipeline Code Review Containerization Opportunities don't happen. You create them. Innovation distinguishes between a leader and a follower. IoT Big Data A/B Testing Replica Set
