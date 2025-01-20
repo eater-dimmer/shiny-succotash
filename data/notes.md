@@ -2,3 +2,4 @@ To be the best, you must be able to handle the worst. Artificial Intelligence OA
 To be the best, you must be able to handle the worst. The only way to do great work is to love what you do. Scalability Act as if what you do makes a difference. It does. Edge Computing Monitoring React Cloud Quantum Computing Replica Set Distributed Systems Parallel Processing Logging
 Parallel Processing Monitoring Microservices The only way to do great work is to love what you do. Event-driven Architecture Replica Set Frontend
 RabbitMQ The only way to do great work is to love what you do. Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Scalability UX Optimization Load Testing Server Response Simplicity is the ultimate sophistication. DNS Routing Serverless Performance Multi-threading Version Control Machine Learning
+React Simplicity is the ultimate sophistication. Load Balancing Algorithm Cache Invalidation

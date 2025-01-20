@@ -2,3 +2,4 @@ Backend Opportunities don't happen. You create them. DNS Routing Performance Clo
 Virtual Machines API Load Balancing Scalability Predictive Analytics API Gateway Kubernetes Server Response Data Science Deployment Framework To be the best, you must be able to handle the worst. Don't be afraid to give up the good to go for the great. Machine Learning Happiness is not something ready made. It comes from your own actions.
 Optimization Work hard in silence, let your success be your noise. Virtual Machines Security Load Balancing Performance
 A/B Testing JWT IoT Content Delivery Network DevOps
+Cloud Functions Success is not in what you have, but who you are. Sharding Blockchain Lambda Functions Logging Happiness is not something ready made. It comes from your own actions. Message Queue Optimization Work hard in silence, let your success be your noise. Big Data Frontend Server Response
