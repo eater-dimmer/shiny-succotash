@@ -1,0 +1,1 @@
+Event Sourcing Microservices RabbitMQ Do what you love and the money will follow. Predictive Analytics Database Indexing React Message Queue Blockchain Zero Downtime Deployment Containerization Data Science
