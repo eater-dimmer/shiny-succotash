@@ -1,0 +1,1 @@
+Opportunities don't happen. You create them. Database Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. Database Indexing API Success is not in what you have, but who you are. Predictive Analytics Optimization Frontend Success usually comes to those who are too busy to be looking for it. Version Control
